@@ -51,4 +51,4 @@ or not commonly used. To see all subcommands, run the command
         --timestamp                  Enable timestamps on log output
         --debug-timestamp            Enable debug output with timestamps
         --no-tty                     Enable non-interactive output
-
+--------------------------------------------------------------------------------------------------------
